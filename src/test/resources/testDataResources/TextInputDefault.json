@@ -1,0 +1,17 @@
+[
+	{
+		"point": "10",
+		"Type": "Text input",
+		"Question": "Explain American revolution followed by boston tea party"
+	},
+	{
+		"point": "10",
+		"Type": "Text input",
+		"Question": "Explain incidents which leads to retaliation of pearl harbour"
+	},
+	{
+		"point": "10",
+		"Type": "Text input",
+		"Question": "Explain East India Company Revolution starts from 1885"
+	}
+]

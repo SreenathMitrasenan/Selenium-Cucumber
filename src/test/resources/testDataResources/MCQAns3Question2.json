@@ -1,0 +1,20 @@
+[
+	{   "numerofanswers":"3",
+		"point": "2.5",
+		"Type": "Multiple choice",
+		"Question": "Who invented theory of relativity",
+		"Answer1": "Albert Einstein",
+		"Answer2": "Alexander Grahambell",
+		"Answer3": "Joseph Presitely",
+		"CorrectAnswer" : "0"
+	},
+	{   "numerofanswers":"3",
+		"point": "2.5",
+		"Type": "Multiple choice",
+		"Question": "Who invented DNA model",
+		"Answer1": "Francis",
+		"Answer2": "Francis and Crick",
+		"Answer3": "Jeremy Irons",
+		"CorrectAnswer" : "2"
+	}
+]

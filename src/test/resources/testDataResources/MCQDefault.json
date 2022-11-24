@@ -1,0 +1,52 @@
+[
+	{
+		"point": "2",
+		"Type": "Multiple choice",
+		"Question": "First president of USA",
+		"Answer1": "Bill clinton",
+		"Answer2": "George Washington",
+		"Answer3": "Abraham Lincoln",
+		"Answer4": "Jojn F Kennedy",
+		"CorrectAnswer":"1"
+	},
+	{
+		"point": "2",
+		"Type": "Multiple choice",
+		"Question": "First president of INDIA",
+		"Answer1": "Narendra Modi",
+		"Answer2": "Sardar Patale",
+		"Answer3": "Ramnath Kovind",
+		"Answer4": "Rajendra Prasad",
+		"CorrectAnswer":"3"
+	},
+	{
+		"point": "3",
+		"Type": "Multiple choice",
+		"Question": "First president of ISRAEL",
+		"Answer1": "Golda Mayer",
+		"Answer2": "Zenith Brutale",
+		"Answer3": "Ivan Cox",
+		"Answer4": "Joseph C Wailey",
+		"CorrectAnswer":"2"
+	},
+	{
+		"point": "4",
+		"Type": "Multiple choice",
+		"Question": "Fouth president of USA",
+		"Answer1": "Bill clinton",
+		"Answer2": "George Washington",
+		"Answer3": "Abraham Lincoln",
+		"Answer4": "Jojn F Kennedy",
+		"CorrectAnswer":"0"
+	},
+	{
+		"point": "5",
+		"Type": "Multiple choice",
+		"Question": "Fifth president of USA",
+		"Answer1": "Bill clinton",
+		"Answer2": "George Washington",
+		"Answer3": "Abraham Lincoln",
+		"Answer4": "Jojn F Kennedy",
+		"CorrectAnswer":"2"
+	}
+]

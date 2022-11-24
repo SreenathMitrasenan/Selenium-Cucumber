@@ -1,0 +1,26 @@
+[
+	{   "numerofanswers":"6",
+		"point": "5",
+		"Type": "Multiple choice",
+		"Question": "Who invented theory of relativity",
+		"Answer1": "Albert Einstein",
+		"Answer2": "Alexander Grahambell",
+		"Answer3": "Joseph Presitely",
+		"Answer4": "Max Plank",
+		"Answer5": "Michael Whittaker",
+		"Answer6": "John Honai",
+		"CorrectAnswer" : "0"
+	},
+	{   "numerofanswers":"6",
+		"point": "5",
+		"Type": "Multiple choice",
+		"Question": "Who invented DNA model",
+		"Answer1": "Francis",
+		"Answer2": "Francis and Crick",
+		"Answer3": "Jeremy Irons",
+		"Answer4": "Edward James",
+		"Answer5": "Walter white",
+		"Answer6": "John Clark",
+		"CorrectAnswer" : "4"
+	}
+]
